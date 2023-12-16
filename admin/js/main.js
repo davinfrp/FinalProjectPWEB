@@ -26,7 +26,7 @@
 		showPreview: false,
 		allowedFileExtensions: ["zip", "rar", "gz", "tgz"],
 		elErrorContainer: "#errorBlock43"
-			// you can configure `msgErrorClass` and `msgInvalidFileExtension` as well
+			
 	});
 
  });
